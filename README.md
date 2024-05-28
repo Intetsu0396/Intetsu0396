@@ -26,7 +26,7 @@ I am a programming enthusiast, throughout my life I have been able to develop my
 📫 <a href="mailto:lopezbadillojuancarlos2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/lopezbadillojuancarlos2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/juan-carlos-lopez-badillo" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Carlos Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6 align="center">Made with ❤️ by Me </h6>
 
 
 
