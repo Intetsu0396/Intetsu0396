@@ -7,7 +7,9 @@ Full stack developer
 
 
 I'm a programming enthusiast with a background in logistics coordination. Throughout my career, I've gained experience in both administrative and leadership roles, thriving in both team environments and as a team leader.
+
 Currently, I leverage my strong English skills as a logistics coordinator for a US-based transportation company. My team plays a critical role, handling 90% of the transportation requests for large companies across the United States.
+
 Beyond logistics, I'm passionate about programming and have a strong foundation in various technologies, including HTML, CSS, Tailwind CSS, JavaScript, React, PostgreSQL, Python, and MySQL.
 
 * 🌍  I'm based in Colombia
