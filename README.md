@@ -19,5 +19,12 @@ I am a programming enthusiast, throughout my life I have been able to develop my
 ## By the way here are some of my statistics 🚀
 ![Intetsu0396's github stats](https://github-readme-stats.vercel.app/api?username=Intetsu0396&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intetsu0396&theme=tokyonight" alt="mystreak"/>
-![Intetsu0396's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intetsu0396&theme=tokyonight&layout=compact)
+
+
+
+
+
+
+
+
 
