@@ -22,7 +22,7 @@ I am a programming enthusiast, throughout my life I have been able to develop my
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-lopezbadillojuancarlos2@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lopezbadillojuancarlos2@gmail.com)](lopezbadillojuancarlos2@gmail.com)
-[![Linkedin Badge]<a href="https://www.linkedin.com/in/juan-carlos-lopez-badillo" target="blank"><img align="center" src="https://img.shields.io/badge/juan-carlos-lopez-badillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;] 
+[![Linkedin Badge]<a href="https://www.linkedin.com/in/juan-carlos-lopez-badillo" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Carlos Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;] 
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
