@@ -4,6 +4,8 @@ Hi 👋 My name is Juan Carlos
 Full stack developer
 --------------------
 
+<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+
 I am a programming enthusiast, throughout my life I have been able to develop myself as an administrator, I have worked in different team work environments and also as the head of some of them. Currently I work as a logistics coordinator in an American transportation company where I apply English on a daily basis, currently in my team we handle 90% of the transportation requests for large companies in the United States. I am passionate about the logic of programming and the technologies that I handle are: HTML CSS Tailwind Javascript React Postgres Python My SQL
 
 * 🌍  I'm based in Colombia
