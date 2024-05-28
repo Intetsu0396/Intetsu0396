@@ -20,9 +20,11 @@ I am a programming enthusiast, throughout my life I have been able to develop my
 ![Intetsu0396's github stats](https://github-readme-stats.vercel.app/api?username=Intetsu0396&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intetsu0396&theme=tokyonight" alt="mystreak"/>
 
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-lopezbadillojuancarlos2@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lopezbadillojuancarlos2@gmail.com)](lopezbadillojuancarlos2@gmail.com)
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
-![Intetsu0396's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intetsu0396&theme=tokyonight&layout=compact)
+
 
 
 
