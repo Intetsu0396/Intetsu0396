@@ -6,7 +6,9 @@ Full stack developer
 
 
 
-I am a programming enthusiast, throughout my life I have been able to develop myself as an administrator, I have worked in different team work environments and also as the head of some of them. Currently I work as a logistics coordinator in an American transportation company where I apply English on a daily basis, currently in my team we handle 90% of the transportation requests for large companies in the United States. I am passionate about the logic of programming and the technologies that I handle are: HTML CSS Tailwind Javascript React Postgres Python My SQL
+I'm a programming enthusiast with a background in logistics coordination. Throughout my career, I've gained experience in both administrative and leadership roles, thriving in both team environments and as a team leader.
+Currently, I leverage my strong English skills as a logistics coordinator for a US-based transportation company. My team plays a critical role, handling 90% of the transportation requests for large companies across the United States.
+Beyond logistics, I'm passionate about programming and have a strong foundation in various technologies, including HTML, CSS, Tailwind CSS, JavaScript, React, PostgreSQL, Python, and MySQL.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [lopezbadillojuancarlos2@gmail.com](mailto:lopezbadillojuancarlos2@gmail.com)
