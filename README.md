@@ -21,8 +21,8 @@ I am a programming enthusiast, throughout my life I have been able to develop my
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intetsu0396&theme=tokyonight" alt="mystreak"/>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-lopezbadillojuancarlos2@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lopezbadillojuancarlos2@gmail.com)](lopezbadillojuancarlos2@gmail.com)
-<a href="https://www.linkedin.com/in/juan-carlos-lopez-badillo" target="blank"><img align="start" src="https://img.shields.io/badge/Juan Carlos Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+📫 <a href="mailto:lopezbadillojuancarlos2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/lopezbadillojuancarlos2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juan-carlos-lopez-badillo" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Carlos Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
